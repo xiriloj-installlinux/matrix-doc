@@ -76,6 +76,11 @@ rendered_data_collapsed = false
 	icon = "fab fa-youtube"
   desc = "Matrix YouTube channel"
 [[params.links.developer]]
+	name = "Mastodon"
+	url = "https://mastodon.matrix.org/@matrix"
+	icon = "fab fa-mastodon"
+  desc = "Matrix on the Fediverse"
+[[params.links.developer]]
 	name = "Twitter"
 	url = "https://twitter.com/matrixdotorg"
 	icon = "fab fa-twitter"
